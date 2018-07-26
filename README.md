@@ -1,3 +1,6 @@
+#删除许多无关列，无关行留下精简的词库用于我们的APP。
+
+
 # ECDICT
 
 Free English to Chinese Dictionary Database.
